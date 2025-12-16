@@ -87,21 +87,3 @@ The map automatically centers on the first property in the list. To change this,
 ### Styling
 
 The project uses Tailwind CSS. Modify the className properties in the components to adjust styling.
-
-## For Your Client Demo
-
-This prototype demonstrates:
-- Clean, functional split-view interface
-- Seamless navigation from both list and map views
-- Professional UI with hover states and selection highlighting
-- Scalable architecture ready for real data integration
-- TypeScript for type safety and better developer experience
-
-## Next Steps (Based on Client Requirements)
-
-- Connect to real property data API
-- Add filtering and search functionality
-- Implement user authentication
-- Add property comparison features
-- Mobile responsive design
-- Property image galleries (when/if client decides they want images)
